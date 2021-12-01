@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @314857493
 - 👀 I’m interested in frontEnd
-- 🌱 I’m currently learning ReactNative react koa
+- 🌱 I’m currently learning how to be a good man
 - 💞️ I’m looking to collaborate on QQ314857493
 - 📫 How to reach me Email 314857493@qq.com
 
